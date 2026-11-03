@@ -8,72 +8,41 @@
 [Website](<https://nikitapogorelov.com>) · [LinkedIn](<https://www.linkedin.com/in/nikita-pogorelov/>) · [GitHub](<https://github.com/nikitapogorelov>)
 <!-- brand-studio:end -->
 
-<div align="right">
+<br />
 
-🇬🇧 English | <a href="./README.ru.md">🇷🇺 Русский</a>
+### BEYOND THE INTERFACE
 
-</div>
+**I build user-facing products and the systems behind them.**
 
-# Hi, I'm Nikita 👋
-
-Senior Frontend Engineer with 6+ years of experience building large-scale web applications, internal platforms, and developer tooling.
-
-I enjoy solving complex product and engineering challenges, improving developer experience, and designing maintainable frontend architectures.
-
-## About Me
-
-* 💼 Senior Frontend Engineer
-* 🏢 Ex-Yandex Search
-* 🏪 Ex-X5 Tech
-* 🌍 Open to relocation across Europe
-* 🚀 Interested in Product Engineering, Platform Engineering, and Frontend Architecture
-
-## Tech Stack
-
-### Frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![Redux](https://img.shields.io/badge/Redux-000?logo=redux)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?logo=graphql)
-
-### Testing
-
-![Vitest](https://img.shields.io/badge/Vitest-000?logo=vitest)
-![Jest](https://img.shields.io/badge/Jest-000?logo=jest)
-![Playwright](https://img.shields.io/badge/Playwright-000?logo=playwright)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions)
-
-## What I Focus On
-
-* Frontend Architecture
-* Platform Engineering
-* Developer Experience (DX)
-* Performance Optimization
-* Design Systems
-* Product Development
-
-## Professional Highlights
-
-* Built internal platforms used by multiple engineering teams
-* Worked on high-traffic products with millions of users
-* Led frontend initiatives and architectural improvements
-* Mentored engineers and participated in technical interviews
-
-## Contact
-
-* LinkedIn: https://www.linkedin.com/in/nikita-pogorelov-a63703235/
-* Email: pogorelovnickjansens@gmail.com
+I'm a software engineer working at the intersection of **product engineering**, **frontend architecture**, and **developer experience**. I care about the details users notice — and the tools, foundations, and workflows that make great engineering possible.
 
 ---
 
-> Building products that scale, and systems that engineers enjoy working with.
+### SELECTED WORK
+
+**Yandex Search**  
+Worked on high-traffic search interfaces with React and TypeScript, focusing on performance, experimentation, and reliable product delivery.
+
+**X5 Tech**  
+Built frontend experiences for a B2B logistics platform serving around 10,000 users, with an emphasis on maintainable architecture and product usability.
+
+**Developer platforms**  
+Built end-to-end testing infrastructure and development-mocking tools adopted by 100+ engineers, making it easier to develop, test, and ship.
+
+---
+
+### WHAT I WORK WITH
+
+**Product & frontend** — TypeScript · React · Next.js · Web Performance  
+**Engineering foundations** — Playwright · CI/CD · Design Systems · Developer Tooling  
+**Beyond the browser** — Go · Docker · Kubernetes · Infrastructure
+
+---
+
+### WHAT MATTERS TO ME
+
+Thoughtful interfaces. Systems that scale. Fast feedback loops. Architecture that makes change easier — not harder.
+
+I also like exploring new ideas beyond day-to-day product work, from full-stack tools to creative projects with Unreal Engine.
+
+**[Explore my work and projects →](https://nikitapogorelov.com)**
