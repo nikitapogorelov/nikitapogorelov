@@ -1,3 +1,13 @@
+<!-- brand-studio:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.png" />
+  <img src="./assets/profile/hero-light.png" width="100%" alt="Nikita Pogorelov — Frontend Engineer." />
+</picture>
+
+[Website](<https://nikitapogorelov.com>) · [LinkedIn](<https://www.linkedin.com/in/nikita-pogorelov/>) · [GitHub](<https://github.com/nikitapogorelov>)
+<!-- brand-studio:end -->
+
 <div align="right">
 
 🇬🇧 English | <a href="./README.ru.md">🇷🇺 Русский</a>
